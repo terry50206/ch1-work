@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+c:\109360204_洪紹恩\2.23\source\main.c(21): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+c:\109360204_洪紹恩\2.23\source\main.c(8): error C4700: 使用了未初始化的區域變數 'a'
+c:\109360204_洪紹恩\2.23\source\main.c(8): error C4700: 使用了未初始化的區域變數 'b'
+c:\109360204_洪紹恩\2.23\source\main.c(8): error C4700: 使用了未初始化的區域變數 'c'
